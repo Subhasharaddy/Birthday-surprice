@@ -1,6 +1,6 @@
 // ✏️ EDIT EVERYTHING HERE. No other file needs personal details.
-const friendName = '[FRIEND_NAME]'
-const yourName = '[YOUR_NAME]'
+const friendName = 'SUBHASHARADDY'
+const yourName = '[subhash]'
 export const config = {
   friendName, yourName,
   birthdayMessage: 'Today is all about celebrating YOU!',
